@@ -15,6 +15,8 @@ This is a project I did in order to practice implementing design patterns in Jav
 Implemented:
 * Abstract Factory
 * Adapter
+* Bridge
+* Builder
 
 ## Status
 Project is: in progress

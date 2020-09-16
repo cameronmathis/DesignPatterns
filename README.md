@@ -14,6 +14,7 @@ This is a project I did in order to practice implementing design patterns in Jav
 ## Design patterns
 Implemented:
 * Abstract Factory
+* Adapter
 
 ## Status
 Project is: in progress

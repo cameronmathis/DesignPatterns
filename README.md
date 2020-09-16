@@ -30,7 +30,7 @@ Implemented:
 * Template
 
 ## Status
-Project is: in progress
+Project is: _finished_
 
 ## Language details
 Language used: Java </br>

@@ -17,6 +17,9 @@ Implemented:
 * Adapter
 * Bridge
 * Builder
+* Composite
+* Decorator
+* Facade
 
 ## Status
 Project is: in progress

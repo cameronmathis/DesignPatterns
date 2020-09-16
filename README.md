@@ -20,6 +20,14 @@ Implemented:
 * Composite
 * Decorator
 * Facade
+* Factory
+* Flyweight
+* Mediator
+* Observer
+* Proxy
+* State
+* Strategy
+* Template
 
 ## Status
 Project is: in progress

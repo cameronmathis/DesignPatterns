@@ -9,7 +9,12 @@ This repository contains all the design patterns I know.
 * [Contact](#contact)
 
 ## General info
-This is a project I did in order to practice implementing design patterns. In order to run and learn more about each individual desgin pattern, navigate to the appropriate design pattern folder. 
+This is a project I did in order to practice implementing design patterns. In order to run and learn more about each individual design pattern, navigate to the appropriate design pattern folder. </br>
+You can also run each design pattern demo from the main folder with the command:
+
+	$ ./run.sh [DesignPattern]
+
+Where the design pattern is one word with the first letter of each word capitalized. (EX: $./run.sh AbstractFactory)
 
 ## Design patterns
 Implemented:

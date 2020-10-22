@@ -10,16 +10,16 @@ This the implementation of the Template Design Pattern in Java.
 
 ## Design Pattern details
 Type:
-* 
+* Behavioral
 
 Applicability:
-* 
+* To implement the invariant part of an algorithm.
+* When common behavior among subclasses should be factored and localized in a common class to avoid code duplication.
+* To control subclass extension.
 
 Pros:
-* 
-
-Cons:
-* 
+* It is a fundamental technique for code reuse.
+* It lets the subclasses refine the (default) behavior of an operation.
 
 ## Setup
 In order to run, clone this repo onto your local machine. Once you have navigated to the project folder, run the command:
@@ -27,7 +27,7 @@ In order to run, clone this repo onto your local machine. Once you have navigate
 	$ ./run.sh
 
 ## Status
-Project is: _in progress_
+Project is: _finished_
 
 ## Language details
 Language used: Java </br>

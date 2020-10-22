@@ -10,16 +10,18 @@ This the implementation of the Proxy Design Pattern in Java.
 
 ## Design Pattern details
 Type:
-* 
+* Structural
 
 Applicability:
-* 
+* Provides a surrogate or placeholder.
+* To provide protection from unauthorized access.
 
 Pros:
-* 
+* Enhances efficiency and lower cost for remote, virtual, and cache proxy.
+* Separation of housekeeping code from functionality.
 
 Cons:
-* 
+* Can be overkill for certain situations.
 
 ## Setup
 In order to run, clone this repo onto your local machine. Once you have navigated to the project folder, run the command:
@@ -27,7 +29,7 @@ In order to run, clone this repo onto your local machine. Once you have navigate
 	$ ./run.sh
 
 ## Status
-Project is: _in progress_
+Project is: _finished_
 
 ## Language details
 Language used: Java </br>

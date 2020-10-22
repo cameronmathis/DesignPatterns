@@ -10,16 +10,16 @@ This the implementation of the State Design Pattern in Java.
 
 ## Design Pattern details
 Type:
-* 
+* Behavioral
 
 Applicability:
-* 
+* When an object's behavior depends on its state, and it must change its behavior at runtime depending on the state.
+* To avoid large switch statements for state-specific behavior.
 
 Pros:
-* 
-
-Cons:
-* 
+* It localizes state-specific behavior and partitions behavior for several states.
+* It makes state-transition explicit and more atomic.
+* State objects can be shared as flyweights.
 
 ## Setup
 In order to run, clone this repo onto your local machine. Once you have navigated to the project folder, run the command:
@@ -27,7 +27,7 @@ In order to run, clone this repo onto your local machine. Once you have navigate
 	$ ./run.sh
 
 ## Status
-Project is: _in progress_
+Project is: _finished_
 
 ## Language details
 Language used: Java </br>

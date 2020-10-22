@@ -14,7 +14,7 @@ Type:
 
 Applicability:
 * To avoid a permanent binding between an abstraction and its implementation. Specific implementation can be selected at run-time.
-* To independently extend abstraction and implementation by subclassing. Different abstractions can be combined with different implementations.
+* To independently extend abstraction and implementation via subclasses. Different abstractions can be combined with different implementations.
 * Changes in the implementation of an abstraction should have no impact on the clients.
 
 Pros:
@@ -27,7 +27,7 @@ In order to run, clone this repo onto your local machine. Once you have navigate
 	$ ./run.sh
 
 ## Status
-Project is: _in progess_
+Project is: _finished_
 
 ## Language details
 Language used: Java </br>

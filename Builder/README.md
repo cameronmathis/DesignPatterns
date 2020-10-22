@@ -27,7 +27,7 @@ In order to run, clone this repo onto your local machine. Once you have navigate
 	$ ./run.sh
 
 ## Status
-Project is: _in progess_
+Project is: _finished_
 
 ## Language details
 Language used: Java </br>

@@ -10,16 +10,19 @@ This the implementation of the Decorator Design Pattern in Java.
 
 ## Design Pattern details
 Type:
-* 
+* Structural
 
 Applicability:
-* 
+* To add responsibility to individual objects dynamically and transparently, that is, without affecting other objects.
+* For responsibility that can be withdrawn,
+* When extension via subclasses is impractical.
 
 Pros:
-* 
+* More flexibility than static inheritance - responsibilities an be added and removed at run-time.
+* Avoids feature-laden classes high up in hierarchy. Responsibility is added on demand.
 
 Cons:
-* 
+* It may produce a system with lots of little look-alike objects. the objects only differ in the way they are interconnected. These systems can be hard to learn and debug.
 
 ## Setup
 In order to run, clone this repo onto your local machine. Once you have navigated to the project folder, run the command:
@@ -27,7 +30,7 @@ In order to run, clone this repo onto your local machine. Once you have navigate
 	$ ./run.sh
 
 ## Status
-Project is: _in progress_
+Project is: _finished_
 
 ## Language details
 Language used: Java </br>

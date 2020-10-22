@@ -10,16 +10,18 @@ This the implementation of the Composite Design Pattern in Java.
 
 ## Design Pattern details
 Type:
-* 
+* Structural
 
 Applicability:
-* 
+* To represent part-whole hierarchies of objects.
+* To be able to ignore the differences between containers and primitives. Clients will treat all objects in the composite pattern uniformly.
 
 Pros:
-* 
+* Clients can treat composite structures (containers) and individual objects (primitives) uniformly.
+* Makes it easier to add new kinds of components.
 
 Cons:
-* 
+* Can make design overly general. Sometimes you want the component to have certain kinds of components.
 
 ## Setup
 In order to run, clone this repo onto your local machine. Once you have navigated to the project folder, run the command:
@@ -27,7 +29,7 @@ In order to run, clone this repo onto your local machine. Once you have navigate
 	$ ./run.sh
 
 ## Status
-Project is: _in progress_
+Project is: _finished_
 
 ## Language details
 Language used: Java </br>

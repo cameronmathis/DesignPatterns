@@ -10,16 +10,16 @@ This the implementation of the Builder Design Pattern in Java.
 
 ## Design Pattern details
 Type:
-* 
+* Creational
 
-When to use:
-* 
+Applicability:
+* The algorithm for creating a complex object should be independent of the parts that makes up the object and how they are assembled.
+* The construction process must allow different representations of the parts that make up the object and how they are assembled.
 
 Pros:
-* 
-
-Cons:
-* 
+* It lets you vary a products internal representation.
+* Isolates code for construction and representation.
+* It gives you finer control over the construction process.
 
 ## Setup
 In order to run, clone this repo onto your local machine. Once you have navigated to the project folder, run the command:

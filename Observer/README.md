@@ -12,7 +12,7 @@ This the implementation of the Observer Design Pattern in Java.
 Type:
 * 
 
-When to use:
+Applicability:
 * 
 
 Pros:

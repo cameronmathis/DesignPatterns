@@ -12,7 +12,7 @@ This the implementation of the Adapter Design Pattern in Java.
 Type:
 * Structural
 
-When to use:
+Applicability:
 * To use an existing class whose interface does not match the one you need.
 * To create a reusable class that cooperates with classes that don't math the one you need.
 * (Object adpater only) To use several existing subclasses, but it can be impractical to adapt their interfaces by subclassing every one. An object adapter can adapt the interface of its parent.

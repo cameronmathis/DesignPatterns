@@ -10,16 +10,16 @@ This the implementation of the Bridge Design Pattern in Java.
 
 ## Design Pattern details
 Type:
-* 
+* Structural
 
-When to use:
-* 
+Applicability:
+* To avoid a permanent binding between an abstraction and its implementation. Specific implementation can be selected at run-time.
+* To independently extend abstraction and implementation by subclassing. Different abstractions can be combined with different implementations.
+* Changes in the implementation of an abstraction should have no impact on the clients.
 
 Pros:
-* 
-
-Cons:
-* 
+* Decouples interface and implementation.
+* Hides implementation detail from client.
 
 ## Setup
 In order to run, clone this repo onto your local machine. Once you have navigated to the project folder, run the command:

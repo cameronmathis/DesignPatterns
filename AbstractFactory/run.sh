@@ -1,4 +1,3 @@
-
 #!/bin/bash
 # compile the program in Java
 javac -d out src/*.java

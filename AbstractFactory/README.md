@@ -9,7 +9,10 @@ This the implementation of the Abstract Factory Design Pattern in Java.
 * [Contact](#contact)
 
 ## Design Pattern details
-When to use:
+Type: 
+* Creational
+
+Applicability:
 * A system should be independent of how its products are created, composed, and represented
 * A system should be configured with one of many families of products
 * A family of related objects is designed to be used together and you need to enforce this

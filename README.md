@@ -9,7 +9,7 @@ This repository contains all the design patterns I know.
 * [Contact](#contact)
 
 ## General info
-This is a project I did in order to practice implementing design patterns. In order to run and learn more about each individual algorithm, navigate to the appropriate algorithm folder. 
+This is a project I did in order to practice implementing design patterns. In order to run and learn more about each individual desgin pattern, navigate to the appropriate design pattern folder. 
 
 ## Design patterns
 Implemented:

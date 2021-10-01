@@ -14,7 +14,7 @@ You can also run each design pattern demo from the main folder with the command:
 
 	$ ./run.sh [DesignPattern]
 
-Where the design pattern is one word with the first letter of each word capitalized. (EX: $./run.sh AbstractFactory)
+Where the design pattern is one word with the first letter of each word capitalized. (EX: $ ./run.sh AbstractFactory)
 
 ## Design patterns
 Implemented:
